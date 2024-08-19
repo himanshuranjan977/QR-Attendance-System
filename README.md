@@ -2,7 +2,7 @@
 
 # QR Attendance System
 
-![image](srs/qr01.png)
+![image](srs/qr03.png)
 
 </div>
 

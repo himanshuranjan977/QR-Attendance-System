@@ -139,7 +139,7 @@ Before you begin, ensure you have the following prerequisites installed:
 ## Screenshots
 
 ### Admin Page
-![image](https://github.com/AzeemIdrisi/QR-Attendance-System/assets/112647789/e4c9f2d8-6b8e-44de-a63d-f7e5db45383e)
+![image](srs/03.png)
 
 ### Student Page
 ![image](https://github.com/AzeemIdrisi/QR-Attendance-System/assets/112647789/a8e2f4a7-831c-4ac5-8e1b-c917a9ca9001)

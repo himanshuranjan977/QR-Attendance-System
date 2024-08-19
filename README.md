@@ -46,7 +46,7 @@ Before you begin, ensure you have the following prerequisites installed:
 1. **Clone the Repository:**
 
    ```
-   git clone https://github.com/AzeemIdrisi/QR-Attendance-System
+   git clone https://github.com/himanshuranjan977/QR-Attendance-System
    ```
 
 2. **Navigate to the Project Directory:**
@@ -139,13 +139,13 @@ Before you begin, ensure you have the following prerequisites installed:
 ## Screenshots
 
 ### Admin Page
-![image](srs/03.png)
+![image](srs/qr03.png)
 
 ### Student Page
-![image](https://github.com/AzeemIdrisi/QR-Attendance-System/assets/112647789/a8e2f4a7-831c-4ac5-8e1b-c917a9ca9001)
+![image](srs/qr02.png)
 
 ### Submission Successful Page
-![image](https://github.com/AzeemIdrisi/QR-Attendance-System/assets/112647789/0f77779e-7648-4356-84c0-7db58b3e786c)
+![image](srs/qr01.png)
 
 
 ## Contributions
@@ -153,6 +153,6 @@ Before you begin, ensure you have the following prerequisites installed:
 We welcome contributions from the community! If you'd like to contribute to this project, please follow our [contribution guidelines](CONTRIBUTING.md).
 
 ## Developers
-Created by __Team Hokage__ during __Live The Code 2.0__ Hackathon.
 
-Contributors : [Mohd Azeem](https://github.com/AzeemIdrisi), [Dheeraj Jha](https://github.com/Dheerajjha451), [Shantanu Pant](https://github.com/Shanty34)
+
+Contributors : [Himanshu Ranjan](https://github.com/himanshuranjan977)
